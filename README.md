@@ -26,4 +26,4 @@
 
 Cертификаты:
 
-Python :https://cloud.mail.ru/public/3Jf2/Z9v6SAaEQ
+Python :https://drive.google.com/file/d/1T7qLoWBdzi4QI0AKecLh0kw7l-EuB103/view?usp=sharing
