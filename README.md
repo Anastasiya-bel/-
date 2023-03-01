@@ -22,3 +22,7 @@
    (ссылка на ноутбук https://colab.research.google.com/drive/1dUxdc6d6dlH5MsH7SDdBwFQlTmVVmZ10?usp=sharing)
    
    6. Задача классификации - наличие или отсутствие сердечной недостаточности у пациентов с использованием базовых ансамблевых методов. (ссылка на ноутбук  https://colab.research.google.com/drive/1dgwHV2M1zftAvWJactRAtwaqXs2bxB4g?usp=sharing)
+
+
+Cертификаты:
+Python :https://cloud.mail.ru/public/3Jf2/Z9v6SAaEQ
