@@ -25,4 +25,5 @@
 
 
 Cертификаты:
+
 Python :https://cloud.mail.ru/public/3Jf2/Z9v6SAaEQ
