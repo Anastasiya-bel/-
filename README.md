@@ -6,6 +6,8 @@
 
 Мои проекты:
 - Recsys challenge https://github.com/Anastasiya-bel/RecSys_movie
+
+
 Cертификаты:
 
 Python :https://drive.google.com/file/d/1T7qLoWBdzi4QI0AKecLh0kw7l-EuB103/view?usp=sharing
